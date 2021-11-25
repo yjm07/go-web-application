@@ -1,7 +1,7 @@
 package main
 
 import (
-	"go-rest-server/web1/myapp"
+	"go-rest-server/basic/myapp"
 	"net/http"
 )
 
